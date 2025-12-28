@@ -16,8 +16,8 @@ const Footer = () => (
   <Wrapper>
     <LetsTalk>Let's talk!</LetsTalk>
     <Address>
-      <Email href="mailto:glowania.maja02@email.com">
-        glowania.maja02@email.com
+      <Email href="mailto:glowania.maja02@gmail.com">
+        glowania.maja02@gmail.com
       </Email>
       <Paragraph>
         I’m always open to new projects whenever I have the time. If you have a

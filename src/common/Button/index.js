@@ -4,7 +4,7 @@ import { MailIcon } from "../icons/MailIcon";
 const Button = () => (
   <StyledButton
     as="a"
-    href="mailto:glowania.maja02@email.com"
+    href="mailto:glowania.maja02@gmail.com"
     title="Send an email to me"
   >
     <MailIcon />
