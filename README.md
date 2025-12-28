@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Personal Homepage – Maja Głowania 👩‍💻
+
+Welcome to my personal homepage project. This application serves as a professional portfolio that dynamically showcases my skills and latest work directly from GitHub.
+
+## 🚀 Live Demo
+
+[Personal Homepage Demo](https://maja-glowania.github.io/personal-homepage)
+
+## 📸 Preview
+
+## 🛠️ Tech Stack
+
+- **React 19** - Functional components with Hooks.
+- **Redux (Toolkit)** - Global state management for theme and portfolio data.
+- **Redux-Saga** - Handling asynchronous API side-effects.
+- **Styled-components** - Modern CSS-in-JS styling with dynamic themes.
+- **GitHub API** - Real-time repository fetching.
+- **Responsive Web Design** - Fully optimized for mobile, tablet, and desktop devices.
+
+## ✨ Key Features
+
+- **Dark Mode / Light Mode** - Advanced theme switching using `ThemeProvider` and persisted via `LocalStorage`.
+- **Dynamic Portfolio** - Fetches public repositories from GitHub API with dedicated Loader and Error states.
+- **Custom UI Components** - Reusable buttons, containers, and styled icons.
+- **Clean Architecture** - Professional folder structure divided into `core`, `common`, and `features`.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -38,33 +64,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
