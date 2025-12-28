@@ -1,0 +1,30 @@
+export const skills = [
+  "Semantic HTML5",
+  "Modern CSS (Grid/Flexbox)",
+  "JavaScript (ES6+)",
+  "React Hooks",
+  "React Router",
+  "Redux (Toolkit)",
+  "Redux-Saga",
+  "Styled-components",
+  "Working with REST APIs (Axios)",
+  "Responsive Web Design",
+  "Dark Mode / Light Mode",
+  "LocalStorage",
+  "Git & GitHub",
+  "NPM",
+  "Promises / Async / Await",
+  "Teamwork (scrum basics)",
+];
+
+export const toLearn = [
+  "TypeScript",
+  "React Context",
+  "Node.js",
+  "Cypress",
+  "JavaScript (deepening knowledge)",
+  "Unit Testing (Jest, React Testing Library)",
+  "Next.js",
+  "GraphQL",
+  "Tailwind CSS",
+];
