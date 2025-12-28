@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/personal-homepage/static/js/main.87bcf624.js",
+    "static/media/profile.jpg": "/personal-homepage/static/media/profile.e8e13cca064e2f601884.jpg",
+    "index.html": "/personal-homepage/index.html",
+    "main.87bcf624.js.map": "/personal-homepage/static/js/main.87bcf624.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.87bcf624.js"
+  ]
+}
