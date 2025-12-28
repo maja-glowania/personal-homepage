@@ -4,7 +4,7 @@ Welcome to my personal homepage project. This application serves as a profession
 
 ## 🚀 Live Demo
 
-[Personal Homepage Demo](https://maja-glowania.github.io/personal-homepage)
+[Personal Homepage Demo](https://maja-glowania.github.io/personal-homepage/)
 
 ## 📸 Preview
 
