@@ -7,6 +7,8 @@ Welcome to my personal homepage project. This application serves as a profession
 [Personal Homepage Demo](https://maja-glowania.github.io/personal-homepage/)
 
 ## 📸 Preview
+<img width="551" height="381" alt="personal-homepage-screen" src="https://github.com/user-attachments/assets/bfebea63-1b9a-439f-b898-444b55823ab4" />
+
 
 ## 🛠️ Tech Stack
 
