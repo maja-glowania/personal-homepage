@@ -9,7 +9,7 @@ export const StyledButton = styled.button`
   padding: 12px 16px;
   gap: 16px;
   background: ${({ theme }) => theme.color.accent};
-  color: ${({ theme }) => theme.color.white};
+  color: ${({ theme }) => theme.color.buttonText};
   border: 1px solid ${({ theme }) => theme.color.iron};
   border-radius: 4px;
   font-weight: 600;

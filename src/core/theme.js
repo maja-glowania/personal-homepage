@@ -33,6 +33,7 @@ export const lightMode = {
     tileTitle: colorNames.dodgerBlue,
     white: colorNames.white,
     iron: colorNames.iron,
+    buttonText: colorNames.white,
     button: {
       background: colorNames.dodgerBlue,
       border: colorNames.shipCove,
@@ -56,6 +57,7 @@ export const darkMode = {
     tileTitle: colorNames.white,
     white: "rgba(54, 54, 54, 0.7)",
     iron: "rgba(209, 213, 219, 0.1)",
+    buttonText: "#FFFFFF",
     button: {
       background: colorNames.scienceBlue,
       border: colorNames.anakiwa,
