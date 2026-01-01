@@ -14,5 +14,6 @@ export const GlobalStyle = createGlobalStyle`
     color: ${({ theme }) => theme.color.textPrimary};
     word-break: break-word;
     margin: 0;
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
 `;

@@ -87,6 +87,8 @@ export const LinkWrapper = styled.div`
 
 export const Link = styled.a`
   color: ${({ theme }) => theme.color.accent};
+  display: inline-block;
+  width: fit-content;
   text-decoration: none;
   border-bottom: 1px solid rgba(3, 102, 214, 0.2);
   transition: 0.3s;
