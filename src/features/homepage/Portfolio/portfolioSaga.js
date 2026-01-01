@@ -9,7 +9,9 @@ import { getRepositories } from "./getRepositories";
 function* fetchRepositoriesHandler() {
   try {
     yield delay(1000);
-    const repositories = yield call(getRepositories, "maja-glowania");
+
+    const repositories = yield call(getRepositories);
+
     yield put(fetchRepositoriesSuccess(repositories));
   } catch (error) {
     yield put(fetchRepositoriesError());
